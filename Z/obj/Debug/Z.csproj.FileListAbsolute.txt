@@ -1,0 +1,7 @@
+D:\dotnet\C#\Langs\Z\Z\bin\Debug\Z.exe.config
+D:\dotnet\C#\Langs\Z\Z\bin\Debug\Z.exe
+D:\dotnet\C#\Langs\Z\Z\bin\Debug\Z.pdb
+D:\dotnet\C#\Langs\Z\Z\obj\Debug\Z.csprojAssemblyReference.cache
+D:\dotnet\C#\Langs\Z\Z\obj\Debug\Z.csproj.CoreCompileInputs.cache
+D:\dotnet\C#\Langs\Z\Z\obj\Debug\Z.exe
+D:\dotnet\C#\Langs\Z\Z\obj\Debug\Z.pdb

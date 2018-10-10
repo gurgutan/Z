@@ -1,0 +1,12 @@
+D:\dotnet\C#\Langs\Z\ZTests\bin\Debug\ZTests.dll
+D:\dotnet\C#\Langs\Z\ZTests\bin\Debug\ZTests.pdb
+D:\dotnet\C#\Langs\Z\ZTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\dotnet\C#\Langs\Z\ZTests\bin\Debug\Z.exe
+D:\dotnet\C#\Langs\Z\ZTests\bin\Debug\Z.pdb
+D:\dotnet\C#\Langs\Z\ZTests\bin\Debug\Z.exe.config
+D:\dotnet\C#\Langs\Z\ZTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\dotnet\C#\Langs\Z\ZTests\obj\Debug\ZTests.csprojAssemblyReference.cache
+D:\dotnet\C#\Langs\Z\ZTests\obj\Debug\ZTests.csproj.CoreCompileInputs.cache
+D:\dotnet\C#\Langs\Z\ZTests\obj\Debug\ZTests.csproj.CopyComplete
+D:\dotnet\C#\Langs\Z\ZTests\obj\Debug\ZTests.dll
+D:\dotnet\C#\Langs\Z\ZTests\obj\Debug\ZTests.pdb
